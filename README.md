@@ -1,36 +1,15 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# **Secret Echo**
 
-## Getting Started
+**Description**:  
+*Secret Echo* is a platform that allows users to create unique links to receive anonymous questions, feedback, or messages from their social network. Perfect for gathering honest opinions, fostering open communication, and discovering what people really think!
 
-First, run the development server:
+## **Upcoming Features**
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+- **Customizable Link Options**: Personalize your links with different themes and settings.
+- **Real-time Notifications**: Get notified instantly when you receive new anonymous messages.
+- **Analytics Dashboard**: Track your link's performance and see how many people are engaging with it.
+- **Reply Anonymously**: Option to respond to anonymous messages without revealing your identity.
+- **User Signup**: Easily create an account to start receiving anonymous feedback.
+- **Unique Shareable Links**: Generate unique links that you can share on social media or with friends.
+- **Anonymous Messaging**: Receive anonymous questions, feedback, or messages directly to your inbox.
+- **Privacy Focused**: All messages are completely anonymous to ensure honest feedback.
