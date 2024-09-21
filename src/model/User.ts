@@ -1,7 +1,7 @@
 import mongoose, { Schema, Document } from "mongoose";
 /*
 Schema is used so that, we do not have to write it again and again
-Document is necessary when we use Typescript
+Document is necessary when we use Typescript to define the elements
 */
 export interface Message extends Document {
     content: string;
@@ -17,6 +17,7 @@ export interface User extends Document {
     isAcceptingMessge: boolean;
     messages: Message[];
 }
+//Schema<Message> is for type safety
 const MessageSchema: Schema<Message> = new Schema({
     content: {
         type: String,
